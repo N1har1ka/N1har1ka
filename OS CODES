@@ -1,2 +1,6 @@
 <!-- codes of OS-->
-  
+#include<stdio.h>
+int main()
+{
+  printf("hello");
+}
