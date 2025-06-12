@@ -4,8 +4,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+%F0%9F%94%A5;AI+%7C+ML+Learner+%F0%9F%A7%96;Open+Source+Contributor+%F0%9F%92%9A" alt="Typing SVG" />
 </p>
-<p align="center">![Visitor Count](https://profile-counter.glitch.me/<your-username>/count.svg)
+---
+
+### 👀 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/N1har1ka/count.svg" alt="Visitor Count" />
 </p>
+
 ---
 
 ### 🌟 About Me
