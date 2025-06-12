@@ -13,7 +13,7 @@
 - 🌱 Currently learning **AI integrations**, **Next.js**, and **Docker**
 - 💼 Working on projects like a **college portal**, **Spring Boot forms**, and **MERN dashboards**
 - 💬 Ask me about **React, Node.js, MongoDB, Spring Boot, or MySQL**
-- 📫 Reach me at: **niharikasingh@example.com**
+- 📫 Reach me at: **niharika.202310@gmail.com**
 - ⚡ Fun fact: I love organizing clean UIs and automating workflows!
 
 ---
@@ -66,10 +66,10 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/niharika-singh" target="_blank">
+  <a href="https://linkedin.com/in/niharika-singh-07a34824a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:niharikasingh@example.com">
+  <a href="mailto:niharika.202310@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/N1har1ka" target="_blank">
