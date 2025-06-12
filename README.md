@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+%F0%9F%94%A5;AI+%7C+ML+Learner+%F0%9F%A7%96;Open+Source+Contributor+%F0%9F%92%9A" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=N1har1ka&label=Profile%20views&color=0e75b6&style=flat" alt="N1har1ka" />
 </p>
