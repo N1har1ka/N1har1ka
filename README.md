@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer and AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+%F0%9F%94%A5;Spring+Boot+%2B+MySQL+Projects;AI+%7C+ML+Learner+%F0%9F%A7%96;Open+Source+Contributor+%F0%9F%92%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+%F0%9F%94%A5;AI+%7C+ML+Learner+%F0%9F%A7%96;Open+Source+Contributor+%F0%9F%92%9A" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🎓 I'm a **BTech CSE** student specializing in **Full Stack AI**
 - 🌱 Currently learning **AI integrations**, **Next.js**, and **Docker**
-- 💼 Working on projects like a **college portal**, **Spring Boot forms**, and **MERN dashboards**
+- 💼 Working on projects like a **college portal** and **MERN dashboards**
 - 💬 Ask me about **React, Node.js, MongoDB, Spring Boot, or MySQL**
 - 📫 Reach me at: **niharika.202310@gmail.com**
 - ⚡ Fun fact: I love organizing clean UIs and automating workflows!
